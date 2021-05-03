@@ -4,7 +4,6 @@ date: "2021-05-03"
 description: "Hello Maxwell"
 ---
 
-
 This is your first post on my new fake blog! How exciting!
 
 I'm sure I'll write a lot more interesting things in the future.
