@@ -8,7 +8,7 @@ module.exports = {
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://blog.psmaxwell.org/`,
     social: {
-      twitter: `psmaxwell`,
+      twitter: `psmaxwell2`,
     },
   },
   plugins: [
