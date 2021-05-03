@@ -1,6 +1,6 @@
 ﻿﻿---  
-title: Hello World  
-date: "2021-05-03"    
+title: Hello World
+date: "2021-05-03"
 description: "Hello Maxwell"
 ---
 
