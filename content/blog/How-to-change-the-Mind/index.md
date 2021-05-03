@@ -1,6 +1,7 @@
 ---
 title: Change your mind
-date: 2021/05/03
+date: 2021-05-03
+updatedAt: 2021-05-03
 description: The best day for you travel.
 ---
 
