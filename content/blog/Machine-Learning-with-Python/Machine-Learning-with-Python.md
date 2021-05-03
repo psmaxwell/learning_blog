@@ -1,6 +1,6 @@
 ---
 title: Machine Learning with Python
-date: ""2021-05-03"
+date: "2021-05-03"
 description: "Hello, and welcome to Machine Learning with Python.
 In this course, you’ll learn how Machine Learning is used in many key fields and industries.
 For example, in the health care industry, data scientists use Machine Learning to predict
@@ -37,7 +37,8 @@ You’ll also get new projects that you can add to your portfolio, including can
 predicting economic trends, predicting customer churn, recommendation engines, and many more.
 You’ll also get a certificate in machine learning to prove your competency, and share
 it anywhere you like online or offline, such as LinkedIn profiles and social media.
-So let’s get started."
+So let’s get started.
+"
 ---
 
 ### A FEW THINGS TO KNOW ABOUT THIS COURSE
