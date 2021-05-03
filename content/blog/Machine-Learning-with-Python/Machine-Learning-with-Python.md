@@ -51,42 +51,42 @@ So let’s get started.
 *You can learn on mobile device if you install Cognitive Class mobile app from Apple App Store (coming soon) or Google Play Store.
 
 ### Learning Objectives
->In this course you will learn about:
->>How Statistical Modeling relates to Machine Learning and do a comparison of each.
->>Real-life examples of Machine learning and how it affects society in ways you may not have guessed!
->>In the labs: Use Python libraries for Machine Learning, such as scikit-learn.
+#### In this course you will learn about:
+- How Statistical Modeling relates to Machine Learning and do a comparison of each.
+- Real-life examples of Machine learning and how it affects society in ways you may not have guessed!
+- In the labs: Use Python libraries for Machine Learning, such as scikit-learn.
 
->Explore many algorithms and models:
->>Popular algorithms: Regression, Classification, and Clustering
->>Recommender Systems: Content-Based and Collaborative Filtering
->>Popular models: Train/Test Split, Gradient Descent, and Mean Squared Error
->>Get ready to do more learning than your machine!
+#### Explore many algorithms and models:
+- Popular algorithms: Regression, Classification, and Clustering
+- Recommender Systems: Content-Based and Collaborative Filtering
+- Popular models: Train/Test Split, Gradient Descent, and Mean Squared Error
+- Get ready to do more learning than your machine!
 
 ### Syllabus
->Module 1 - Machine Learning
->>Python for Machine Learning
->>Supervised vs Unsupervised
+#### Module 1 - Machine Learning
+- Python for Machine Learning
+- Supervised vs Unsupervised
 
->Module 2 - Regression
->>Simple Linear Regression
->>Multiple Linear Regression
->>Model Evaluation in Regression Models
->>Non-Linear Regression
+#### Module 2 - Regression
+- Simple Linear Regression
+- Multiple Linear Regression
+- Model Evaluation in Regression Models
+- Non-Linear Regression
 
->Module 3 - Classification
->>K-Nearest Neighbors
->>Decision Trees
->>Evaluation Metrics in Classification
->>Logistic Regression vs Linear Regressin
->>Support Vector Machine (SVM)
+#### Module 3 - Classification
+- K-Nearest Neighbors
+- Decision Trees
+- Evaluation Metrics in Classification
+- Logistic Regression vs Linear Regressin
+- Support Vector Machine (SVM)
 
->Module 4 - Clustering
->>K-Means Clustering
->>Hierarchical Clustering
->>DBSCAN
+#### Module 4 - Clustering
+- K-Means Clustering
+- Hierarchical Clustering
+- DBSCAN
 
->Module 5 - Recommender Systems
->>Content-Based Recommender Systems
->>Collaborative Filtering
+#### Module 5 - Recommender Systems
+- Content-Based Recommender Systems
+- Collaborative Filtering
 
 
