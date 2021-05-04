@@ -112,24 +112,4 @@ exports.createSchemaCustomization = ({ actions }) => {
       slug: String
     }
   `)
-}
-const postTimestamps = require('./postTimestamps.json');
-
-module.exports.onCreateNode = async function onCreateNode({ node, actions }) {
-  const { createNodeField } = actions;
-
-  if (node.internal.type !== `File`) {
-    return;
-  }
-  const relativePath = path.relative(process.cwd(), node.fileAbsolutePath);
-  const timestamp = postTimestamps[relativePath];
-  createNodeField({
-    node,
-    name: `updatedAt`,
-    // 如果没有找到给一个不可能的值，避免冗余的判断
-    value:
-     timestamp
-      ? timestamp.updatedAt
-      : '1992-10-15T10:53:18+08:00'
-  });
-}
+};
