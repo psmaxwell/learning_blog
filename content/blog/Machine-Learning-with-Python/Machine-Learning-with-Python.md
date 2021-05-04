@@ -12,33 +12,7 @@ from historical data helps doctors to prescribe the proper medicine for each of 
 You’ll learn how bankers use machine learning to make decisions on whether to approve loan
 applications.
 And you will learn how to use machine learning to do bank customer segmentation, where it
-is not usually easy to run for huge volumes of varied data.
-In this course, you’ll see how machine learning helps websites such as YouTube, Amazon, or
-Netflix develop recommendations to their customers about various products or services, such as
-which movies they might be interested in going to see or which books to buy.
-There is so much that you can do with Machine Learning!
-Here, you’ll learn how to use popular python libraries to build your model.
-For example, given an automobile dataset, we use the sci-kit learn (sklearn) library
-to estimate the Co2 emission of cars using their Engine size or Cylinders.
-We can even predict what the Co2 emissions will be for a car that hasn’t even been
-produced yet!
-And we’ll see how the telecommunications industry can predict customer churn.
-You can run and practice the code of all these samples using the built-in lab environment
-in this course.
-You don’t have to install anything to your computer or do anything on the cloud.
-All you have to do is click a button to start the lab environment in your browser.
-The code for the samples is already written using python language, in Jupyter notebooks,
-and you can run it to see the results, or change it to understand the algorithms better.
-So, what will you be able to achieve by taking this course?
-Well, by putting in just a few hours a week over the next few weeks, you’ll get new
-skills to add to your resume, such as regression, classification, clustering, sci-kit learn
-and SciPy.
-You’ll also get new projects that you can add to your portfolio, including cancer detection,
-predicting economic trends, predicting customer churn, recommendation engines, and many more.
-You’ll also get a certificate in machine learning to prove your competency, and share
-it anywhere you like online or offline, such as LinkedIn profiles and social media.
-So let’s get started.
-"
+is not usually easy to run for huge volumes of varied data."
 ---
 
 ### A FEW THINGS TO KNOW ABOUT THIS COURSE

@@ -5,7 +5,7 @@ module.exports = {
       name: `Maxwell Pan`,
       summary: `who lives and works in Shanghai building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Maxwell Pan's personal space to blog his learning of technology.`,
     siteUrl: `https://blog.psmaxwell.org/`,
     social: {
       twitter: `psmaxwell2`,
