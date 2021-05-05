@@ -1,15 +1,17 @@
 # Structure and Interpretation of Computer Programs
 
 <font color=red>
-Lisp Language 列表处理程序语言
+* Lisp Language 列表处理程序语言
 
-LISP programming language LISP 程序设计语言
+* LISP programming language LISP 程序设计语言
 
-Fortran (firmula translator) 公式翻译程式语言
 
-fortran language 公式翻译语言
+* Fortran (firmula translator) 公式翻译程式语言
 
-semantic structure 语义结构
+
+* fortran language 公式翻译语言
+
+* semantic structure 语义结构
 
 
 PASCAL PASCAL语言
