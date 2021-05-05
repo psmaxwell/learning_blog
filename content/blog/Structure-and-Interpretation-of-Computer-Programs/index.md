@@ -58,7 +58,8 @@ Lisp is for building organisms—imposing, breathtaking, dynamic structures buil
 ### Every powerful language has three mechanisms for accomplishing this:
 * **primitive expressions**, which represent the simplest entities the language is concerned with,
 * **means of combination**, by which compound elements are built from simpler ones, and
-* **means of abstraction**, by which compound elements can be named and manipulated as units.
+* **means of abstraction**, by which compound elements can be named and manipulated as units.
+
 
 ***In programming, we deal with two kinds of elements: procedures and data.***
 
