@@ -1,4 +1,4 @@
-#<font color=red>Structure and Interpretation of Computer Programs</font>
+# Structure and Interpretation of Computer Programs
 
 <font color=red>
 Lisp Language 列表处理程序语言
