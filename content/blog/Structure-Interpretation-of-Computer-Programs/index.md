@@ -1,6 +1,7 @@
-# Structure and Interpretation of Computer Programs
+Structure and Interpretation of Computer Programs
 
 <font color=red>
+
 * Lisp Language 列表处理程序语言
 
 * LISP programming language LISP 程序设计语言
@@ -31,7 +32,7 @@ Lisp is for building organisms—imposing, breathtaking, dynamic structures buil
 * The essentail material to be addressed by a subject at this level is not  the syntax of particular programming-language constructs,nor clever algorithms for computing particular functions of computing,but rather the techniques used to control the intellctual complexity of large software systems.
 
 </font>
- 
+
 
 # Chapter 1 Building Abstractions with Procedures
 
@@ -51,7 +52,7 @@ Lisp is for building organisms—imposing, breathtaking, dynamic structures buil
 
 
 ### programing in Lisp
- 
+
 ###***The dialect of Lisp used in this book is called Scheme.***
 
 
@@ -120,7 +121,6 @@ sqrt is our first example of a process defined by a set of mutually defined proc
 
 
 ##1.2 Procedures and the Processes They Generate
-
 
 
 
