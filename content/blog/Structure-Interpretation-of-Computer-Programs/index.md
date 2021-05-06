@@ -1,6 +1,6 @@
 ---
 title: Structure and Interpretation of Computer Programs
-date: "2015-05-06"
+date: "2021-05-06"
 description: "Structure and Interpretation of Computer Programs"
 ---
 
