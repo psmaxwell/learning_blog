@@ -1,3 +1,11 @@
+---
+title: Structure and Interpretation of Computer Programs
+date: "2015-05-06"
+description: "Structure and Interpretation of Computer Programs"
+---
+
+
+
 Structure and Interpretation of Computer Programs
 
 <font color=red>
