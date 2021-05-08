@@ -113,7 +113,7 @@ For compound procedures, the application process is as follows:
 To apply a compound procedure to arguments, evaluate the body of the procedure with each formal parameter replaced by the corresponding argument.
 
 ###1.1.6 Conditional Expressions and Predicates
-The expressive power of the class of procedures that we can define at this point is very limited, because we have no way to make tests and to perform different operations depending on the result of a test.
+**The expressive power of the class of procedures** that we can define at this point is very limited, because we have no way to make tests and to perform different operations depending on the result of a test.
 
 
 ###1.1.7 Example: Square Roots by Newton’s Method
