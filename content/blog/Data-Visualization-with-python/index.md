@@ -2,9 +2,7 @@ title: Data Visualization with Python
 date: "2021-05-23"
 description: " Data visualization is the graphical of data in order to interactively and efficiently convey insights to clients,customers,and stakeholders in general,It is a way to summarize your findings and display it in a form that facilities interpretation and can help in identifying patterns or trends."
 
-
-
-  
+ 
 
 we will learn about:
 
