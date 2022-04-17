@@ -501,3 +501,108 @@ Congratulations! you have learned how to wrangle data with python and create a l
 - `scatter` for scatter plots
 - `hexbin` for hexbin plot
 
+
+
+### Area Plot
+
+Also known as area chart or area graph
+
+
+
+Commonly used to represent cumulated totals using numbers or percentages over time.
+
+
+
+Is bassed on the line plot.
+
+![Pandas Basics](./area_plots.PNG)
+
+
+
+### Histogram
+
+A histogram is a way of representing the frequency distribution of a variable.
+
+![Pandas Basics](./histogram.PNG)
+
+### Bar Charts
+
+Unlike a histogram,a bar chart is commonly used  to compare the values of variable at a given point in time.
+
+![Pandas Basics](./bar_charts.PNG)
+
+
+
+# Practices: Area Plots, Histograms, and Bar Plots
+
+
+
+## Table of Contents
+
+1. [Exploring Datasets with *pandas*](https://jupyterlab-5-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/shanpan/lab/workspaces/auto-Z/tree/labs/DV0101EN/DV0101EN-Exercise-Area-Plots-Histograms-and-Bar-Charts-py.ipynb#0)
+2. [Downloading and Prepping Data](https://jupyterlab-5-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/shanpan/lab/workspaces/auto-Z/tree/labs/DV0101EN/DV0101EN-Exercise-Area-Plots-Histograms-and-Bar-Charts-py.ipynb#2)
+3. [Visualizing Data using Matplotlib](https://jupyterlab-5-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/shanpan/lab/workspaces/auto-Z/tree/labs/DV0101EN/DV0101EN-Exercise-Area-Plots-Histograms-and-Bar-Charts-py.ipynb#4)
+4. [Area Plots](https://jupyterlab-5-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/shanpan/lab/workspaces/auto-Z/tree/labs/DV0101EN/DV0101EN-Exercise-Area-Plots-Histograms-and-Bar-Charts-py.ipynb#6)
+5. [Histograms](https://jupyterlab-5-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/shanpan/lab/workspaces/auto-Z/tree/labs/DV0101EN/DV0101EN-Exercise-Area-Plots-Histograms-and-Bar-Charts-py.ipynb#8)
+6. [Bar Charts](https://jupyterlab-5-labs-prod-jupyterlab-us-east-0.labs.cognitiveclass.ai/user/shanpan/lab/workspaces/auto-Z/tree/labs/DV0101EN/DV0101EN-Exercise-Area-Plots-Histograms-and-Bar-Charts-py.ipynb#10)
+
+
+
+# Downloading and Prepping Data
+
+Import Primary Modules. The first thing we'll do is import two key data analysis modules: *pandas* and **Numpy**.
+
+![Pandas Basics](./Downloading.PNG)
+
+![Pandas Basics](./clean.PNG)
+
+![Pandas Basics](./rename.PNG)
+
+![Pandas Basics](./list.PNG)
+
+![Pandas Basics](./add_total.PNG)
+
+![Pandas Basics](./map.PNG)
+
+![Pandas Basics](./visualizing_data.PNG)
+
+![Pandas Basics](./immigration.PNG)
+
+![Pandas Basics](./immigration2.PNG)
+
+![Pandas Basics](./two_types.PNG)
+
+![Pandas Basics](./immigrration3.PNG)
+
+![Pandas Basics](./question.PNG)
+
+![Pandas Basics](./immigration4.PNG)
+
+![Pandas Basics](./immigration5.PNG)
+
+![Pandas Basics](./immigration6.PNG)
+
+![Pandas Basics](./immigration7.PNG)
+
+![Pandas Basics](./immigration8.PNG)
+
+![Pandas Basics](./immigration9.PNG)
+
+![Pandas Basics](./immigration10.PNG)
+
+![Pandas Basics](./immigration12.PNG)
+
+![Pandas Basics](./immigration13.PNG)
+
+![Pandas Basics](./immigration14.PNG)
+
+![Pandas Basics](./immigration15.PNG)
+
+![Pandas Basics](./immigration16.PNG)
+
+![Pandas Basics](./immigration17.PNG)
+
+![Pandas Basics](./immigration18.PNG)
+
+![Pandas Basics](./immigration19.PNG)
+
